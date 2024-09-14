@@ -14,4 +14,5 @@ This challenge involves zip2john.
 ![John](https://raw.githubusercontent.com/x03ee/MetaCTF-WriteUps/main/crypto/Mmm%2C%20Birthday%20Cake/images/john.PNG?token=GHSAT0AAAAAACXCKAGRZ6LYBAJJSCD75ASOZXFGLFA)
 
 Password : `060450`
+
 Flag : ```MetaCTF{th3_b1rthd4y_c4k3_w4s_n0t_a_li3}```
