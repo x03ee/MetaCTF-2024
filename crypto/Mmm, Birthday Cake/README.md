@@ -11,7 +11,7 @@ This challenge involves zip2john.
 3. john birthdaycake.hash
 4. john --show birthdaycake.hash
 
-![John](https://raw.githubusercontent.com/x03ee/MetaCTF-WriteUps/main/images/jadx%20gui.png?token=GHSAT0AAAAAACXCKAGQZZXPALQBJQ735CBIZXFFJ5Q)
+![John](https://raw.githubusercontent.com/x03ee/MetaCTF-WriteUps/main/crypto/Mmm%2C%20Birthday%20Cake/images/john.PNG?token=GHSAT0AAAAAACXCKAGRZ6LYBAJJSCD75ASOZXFGLFA)
 
 Password : `060450`
 Flag : ```MetaCTF{th3_b1rthd4y_c4k3_w4s_n0t_a_li3}```
