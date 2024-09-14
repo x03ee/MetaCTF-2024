@@ -53,7 +53,7 @@ This challenge requires cracking a password-protected ZIP file using the tool `z
    MetaCTF{th3_b1rthd4y_c4k3_w4s_n0t_a_li3}
    ```
 
-![John Output](https://raw.githubusercontent.com/x03ee/MetaCTF-WriteUps/main/crypto/Mmm%2C%20Birthday%20Cake/images/john.PNG?token=GHSAT0AAAAAACXCKAGRZ6LYBAJJSCD75ASOZXFGLFA)
+![John Output](https://github.com/x03ee/MetaCTF-WriteUps/blob/main/crypto/Mmm%2C%20Birthday%20Cake/images/john.PNG)
 
 ### Final Flag:
 
