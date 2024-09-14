@@ -26,4 +26,6 @@ This challenge involves using Burp Suite to uncover hidden server functionalitie
 ![Burp](https://github.com/x03ee/MetaCTF-WriteUps/blob/main/web/Server%20Sleuthing/images/Burp.PNG)
 
 ### Final Flag:
-```MetaCTF{i_am_running_python_flask}```
+```
+MetaCTF{i_am_running_python_flask}
+```
