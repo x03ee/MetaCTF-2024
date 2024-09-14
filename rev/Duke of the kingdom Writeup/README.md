@@ -38,3 +38,7 @@ flag = ''.join(chr(b) for b in flag_bytes)
 print("Flag:", flag)
 # Output: metactf{duk3_at_th3_t0p_0f_th3ir_cl4ss}
 ```
+### Final Flag:
+```
+metactf{duk3_at_th3_t0p_0f_th3ir_cl4ss}
+```
