@@ -1,2 +1,2 @@
 
-![MetaCTFlogo](https://github.com/x03ee/MetaCTF-WriteUps/blob/main/MetaCTFlogo.png)
+![MetaCTFlogo](https://app.metactf.com/assets/img/rstcon.png)
